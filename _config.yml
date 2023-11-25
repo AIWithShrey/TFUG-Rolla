@@ -1,4 +1,4 @@
 title: TFUG Rolla
 #show_downloads: true
 #logo:
-repo_theme_dark: dark
+theme: jekyll-theme-avenco
